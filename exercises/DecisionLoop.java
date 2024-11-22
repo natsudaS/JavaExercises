@@ -1,4 +1,4 @@
-package execises;
+package exercises;
 
 public class DecisionLoop {
     

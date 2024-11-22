@@ -1,2 +1,2 @@
-# JavaExecises
- some excisises from java tutorials
+# JavaExercises
+ some exercises from java tutorials
