@@ -1,4 +1,4 @@
-package helloworld;
+package exercises;
 
 public class ConditionalSum {
     static int number;

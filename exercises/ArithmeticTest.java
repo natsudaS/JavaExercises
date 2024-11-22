@@ -1,4 +1,4 @@
-package helloworld;
+package exercises;
 
 public class ArithmeticTest {
     public static void main(String[] args) {

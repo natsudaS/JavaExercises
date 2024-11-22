@@ -1,4 +1,4 @@
-package helloworld;
+package exercises;
 
 public class Computations {
     static final double PI=3.14159265;

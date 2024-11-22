@@ -1,4 +1,4 @@
-package helloworld;
+package exercises;
 
 public class WhileSum {
     static int number;

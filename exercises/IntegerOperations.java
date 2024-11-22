@@ -1,4 +1,4 @@
-package helloworld;
+package exercises;
 
 public class IntegerOperations {
     static int num1=11;
